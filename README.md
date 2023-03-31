@@ -9,4 +9,4 @@ e lincando  HTML o CSS e o JAVA SCRIPT foi estilizado e criado uma função com 
 JAVA SCRIPT, possibilitando buscar os números digitados e fazer o cálculo percentual.</p>
 
 
-<img src="Cauculadora%.png">
+<img src="https://github.com/Damatta22/aplicativo-calculo--/blob/a6e41038e8265ed81d0da0852f2534d150cea1b7/Cauculadora%20%25.PNG">
